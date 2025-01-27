@@ -16,7 +16,7 @@ This project is a GUI-based Billing Software developed using Python and the Tkin
 ## Screenshots
 
 ### Homepage
-![Homepage]("C:\Users\91966\Music\Billing System\Screenshots\Screenshot 2025-01-27 100904.png")
+![Homepage](Screenshots\Screenshot 2025-01-27 100904.png)
 
 
 ## How to Run
