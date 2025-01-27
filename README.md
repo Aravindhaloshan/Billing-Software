@@ -13,16 +13,13 @@ This project is a GUI-based Billing Software developed using Python and the Tkin
 - **Search Past Bills:** Look up previously saved bills using the bill number.
 - **User-Friendly GUI:** Intuitive layout with buttons for clearing data, calculating totals, generating bills, and exiting the application.
 
-## Screenshots
 
-### Homepage
-![Homepage](Screenshots\Screenshot 2025-01-27 100904.png)
 
 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/billing-software.git
+   git clone https://github.com/Aravindhaloshan/billing-software.git
    ```
 2. Navigate to the project folder:
    ```bash
